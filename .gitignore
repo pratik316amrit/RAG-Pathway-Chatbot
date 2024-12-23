@@ -1,0 +1,15 @@
+vector_store
+__pycache__
+*.pyc
+.env
+credentials.json
+parsed_docs.txt
+corrective_adaptive_rag_outputs/
+openParse_self_rag/
+requirements.txt
+*.log
+enhancedParse_self_rag/
+hiResParse_self_rag/
+rag/alphabet_enhanced.json
+workflow.png
+charts/
